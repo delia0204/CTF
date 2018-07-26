@@ -1,0 +1,5 @@
+ubuntu 64位16.04版本，安装支持32位程序的二进制库：
+
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install zlib1g:i386 libstdc++6:i386 libc6:i386
