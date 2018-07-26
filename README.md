@@ -1,3 +1,3 @@
 # CTF
 
-PWN + REVERSE
+PWN
